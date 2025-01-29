@@ -1,5 +1,16 @@
 # Supporters of Chromium Based Browsers Steering Committee Notes
 
+##
+*January 29,2025*
+
+The Steering Committee approved a Bug Bounty Program budget with award ammounts for Small, Medium, and Largebugs. The program will run for 6 months The proposal will go to the GB for approval on 1/30 and legal reviiew after that. If the program is successful, the investment will increase over time. 
+
+Nathan Schloss from Meta volunteered as the first Steering Committee Chair. 
+
+The team decided to use Github as the program's webpage for now and focus on the Bug Bounty Program instead of flaky testing. 
+
+Action items include refining the program document for legal review, redirecting the SOCBB.org domain to the LF page, and Nathan seeking Meta's legal approval for his chair role in 2025.
+
 
 ## 
 *January 22, 2025*
