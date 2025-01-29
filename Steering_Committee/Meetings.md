@@ -3,7 +3,7 @@
 ##
 *January 29,2025*
 
-The Steering Committee approved a Bug Bounty Program budget with award ammounts for Small, Medium, and Largebugs. The program will run for 6 months The proposal will go to the GB for approval on 1/30 and legal reviiew after that. If the program is successful, the investment will increase over time. 
+The Steering Committee approved a Bug Bounty Program budget with award ammounts for Small, Medium, and Largebugs. The program will run for 6 months The proposal will go to the GB for approval on 1/30 and legal review after that. If the program is successful, the investment will increase over time. 
 
 Nathan Schloss from Meta volunteered as the first Steering Committee Chair. 
 
