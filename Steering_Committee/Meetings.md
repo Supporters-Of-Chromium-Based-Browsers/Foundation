@@ -1,6 +1,16 @@
 # Supporters of Chromium Based Browsers Steering Committee Notes
 
 ##
+*March 5,2025*
+
+The Steering Committee Approved a new logo for SOCBB and answered questions from legal regarding the Bug Bounty Program. There was discussion around how the program can be as clear as possible about how much efforrt goes into completing the Large level bugs. it was decided that clear documentation and rules wiill be the most helpful to developers.
+
+##
+*February 5,2025*
+
+Final edits were made to the Bug Bounty Program Proposal and a draft was sent to LF Legal for review/ approval. The Steering committee will recoview once that review is complete.
+
+##
 *January 29,2025*
 
 The Steering Committee approved a Bug Bounty Program budget with award ammounts for Small, Medium, and Largebugs. The program will run for 6 months The proposal will go to the GB for approval on 1/30 and legal review after that. If the program is successful, the investment will increase over time. 
