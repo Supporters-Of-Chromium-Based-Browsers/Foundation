@@ -28,11 +28,15 @@ The General Members will be represented on the Governing Board by one representa
 
 All members of SOCBB will be entitled to appoint representatives to the Steering Committee and any working groups.
 
+
+
 **Membership Class Annual Membership Fees**
 
 **Premier Member** $1,000,000 or $2,000,000
 
 **General Member** $100,000, $250,000, $500,000, $750,000 or $999.999.99
+
+
 
 **Linux Foundation Membership Information. **
 
@@ -49,6 +53,7 @@ employees: $15,000; 5,000 or more employees: $20,000.
 ● LF Associate membership is available for non-profit, open source, and government
 
 entities at no cost.
+
 
 
 ## How to Participate in the Bug Bounty Program
