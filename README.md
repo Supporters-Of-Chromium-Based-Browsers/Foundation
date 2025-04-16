@@ -73,3 +73,6 @@ A: There is a Steering Committee that investigates and proposes projects. The co
 
 #### Q: Where can I see what SOCBB projects are currently funded?
 A: Coming Soon!
+
+#### Q: Can i propose a projject for SOCBB to fund?
+A: Yes! Please submit any project proposals to [proposals@socbb.org](proposals@socbb.org)
