@@ -4,13 +4,9 @@ The Supporters of Chromium-Based Browsers will provide a neutral space where ind
 
 By fostering collaboration, the collective aims to remove barriers to innovation, expand adoption, and ensure that projects within the Chromium ecosystem receive the resources they need to thrive.
 
- 
-
 The Chromium projects themselves will remain under current, existing governance structures while just the new Supporters of Chromium-Based Browsers will be housed under the Linux Foundation.
 
-**Members of theSupporters For chromium Based Browsers**
-
-
+**Members of the Supporters For chromium Based Browsers**
 
 * Google
 * Meta
@@ -18,7 +14,6 @@ The Chromium projects themselves will remain under current, existing governance 
 * Microsoft
 
 Email [info@socbb.org](mailto:info@socbb.org) with questions.
-
 
 # Join Supporters of Chromium Based Browsers (SOCBB)
 
@@ -28,37 +23,29 @@ The General Members will be represented on the Governing Board by one representa
 
 All members of SOCBB will be entitled to appoint representatives to the Steering Committee and any working groups.
 
-
 # Membership Class Annual Membership Fees
 
-**Premier Member** $1,000,000 or $2,000,000
-
-**General Member** $100,000, $250,000, $500,000, $750,000 or $999.999.99
+- **Premier Member:** $1,000,000 or $2,000,000
+- **General Member:** $100,000, $250,000, $500,000, $750,000 or $999.999.99
 
 ## [Join Now!](https://www.linuxfoundation.org/supporters-of-chromium-based-browsers)
-
 
 # Linux Foundation Membership Information. 
 
 Your organization will need to be a current member of the LF. If your organization is already a member of the LF, there is no need to do anything. If you are not a member of the LF, there are three tiers of LF membership available. The fees associated with each level of LF membership are included below for non-members to easily reference. Please visit the Corporate Membership page at the LF web site for full details:
 
-● LF Platinum: $500,000
-
-● LF Gold: $100,000
-
-● LF Silver: Under 100 employees: $5,000; 100-499 employees: $10,000; 500-4,999
-
-employees: $15,000; 5,000 or more employees: $20,000.
-
-● LF Associate membership is available for non-profit, open source, and government
-
-entities at no cost.
-
+- **LF Platinum:** $500,000
+- **LF Gold:** $100,000
+- **LF Silver:**
+  - **Under 100 employees:** $5,000
+  - **100–499 employees:** $10,000
+  - **500–4,999 employees:** $15,000
+  - **5,000 or more employees:** $20,000.
+- **LF Associate membership** is available for non-profit, open source, and government entities at no cost.
 
 # How to Participate in the Bug Bounty Program
 
 [Learn More](https://github.com/Supporters-Of-Chromium-Based-Browsers/Bug-Bounty-Program)
-
 
 # FAQs
 
@@ -72,7 +59,7 @@ A: The focus is to find ways to more sustainably improve Chromium beyond what br
 A: There is a Steering Committee that investigates and proposes projects. The committee is open to new ideas from the community; you can email us at [info@socbb.org](info@socbb.org) if you have an idea.
 
 #### Q: Where can I see what SOCBB projects are currently funded?
-A: Coming Soon!
+A: Coming soon!
 
-#### Q: Can i propose a project for SOCBB to fund?
+#### Q: Can I propose a project for SOCBB to fund?
 A: Yes! Please submit any project proposals to [proposals@socbb.org](proposals@socbb.org)
